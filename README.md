@@ -6,4 +6,5 @@
 
 ![biji](doc/images/image2.png)
 
-![笔记图片](doc/images/image4.png)
+![笔记图片](images/image4.png)
+重大发现，原来插入的图片应该和笔记同属于一个根目录下面
